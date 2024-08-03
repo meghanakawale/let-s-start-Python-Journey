@@ -1,0 +1,2 @@
+languages=["C","C++","PYTHON","JAVA"]
+print(languages[2])
