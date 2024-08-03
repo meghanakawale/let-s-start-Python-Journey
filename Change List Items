@@ -1,0 +1,5 @@
+colors=['Red','Blue','Black']
+print("Original List=",colors)
+
+colors[2]='Pink'
+print("updated list=",colors)
