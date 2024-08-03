@@ -1,0 +1,2 @@
+colors=("RED","BLACK","WHITE")
+print("Yellow" in colors)
