@@ -1,0 +1,6 @@
+fruits=['Mango','Banana','stroberry']
+print('Fruit list=',fruits)
+
+
+fruits.append('Cherry')
+print("Updated list=",fruits)
