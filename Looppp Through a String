@@ -1,0 +1,4 @@
+language='MEGHANA'
+
+for x in language:
+    print(x)
