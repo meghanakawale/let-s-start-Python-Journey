@@ -1,0 +1,4 @@
+languages = {'Swift', 'Java', 'Python'}
+
+for i in languages:
+    print(i)
