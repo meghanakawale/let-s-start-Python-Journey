@@ -1,0 +1,2 @@
+cars=("Shift","BMW","TESLA")
+print(len(cars))
