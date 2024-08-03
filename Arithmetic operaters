@@ -1,0 +1,14 @@
+a=100
+b=20
+
+# addition
+print("Addition:",a+b)
+
+#Subtraction
+print("Subtractin:",a-b)
+
+#Multiplication
+print("Multiplicatin:",a*b)
+
+#Divison
+print("Div:",a/b)
