@@ -1,0 +1,5 @@
+""" value is assign to the a,b and sum """
+a=10 
+b=20
+sum=a+b
+print(sum)
