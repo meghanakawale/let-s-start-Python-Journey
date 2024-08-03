@@ -1,0 +1,4 @@
+language=['JAVA','PYTHON','CPP']
+
+for lang in language:
+    print(lang)
