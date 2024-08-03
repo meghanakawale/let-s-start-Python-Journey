@@ -1,0 +1,8 @@
+languages = {'Swift', 'Java', 'Python'}
+
+print('Initial Set:',languages)
+
+# remove 'Java' from a set
+languages.discard('Java')
+
+print('Set after remove():', languages)
