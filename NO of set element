@@ -1,0 +1,3 @@
+languages = {'Swift', 'Java', 'Python'}
+
+print("Number of set element=",len(languages))
