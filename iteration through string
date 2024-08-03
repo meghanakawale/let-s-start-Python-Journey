@@ -1,0 +1,3 @@
+F_Name="Meghana "
+for i in F_Name:
+ print(i)
