@@ -1,0 +1,4 @@
+colors=("RED","BLACK","WHITE")
+
+for i in colors:
+    print(i)
