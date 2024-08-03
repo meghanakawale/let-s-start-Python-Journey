@@ -1,0 +1,2 @@
+Stud={1:"ABC", 2:"XYZ", 3:"PQR"}
+print(Stud[1])
