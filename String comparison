@@ -1,0 +1,5 @@
+F_Name="Meghana"
+M_Name="Rangarao"
+L_Name="Kawale"
+
+print(F_Name==L_Name)
