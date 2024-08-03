@@ -1,0 +1,5 @@
+fruits={'mango','banana','stroberry'}
+print("original set",fruits)
+
+fruits.add('Cherry')
+print ("Updated sets",fruits)
