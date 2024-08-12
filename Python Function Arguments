@@ -1,0 +1,5 @@
+def meghana(name):
+    print("Hello",name)
+    
+meghana("meghana")
+    
