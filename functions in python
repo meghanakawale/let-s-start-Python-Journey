@@ -1,0 +1,5 @@
+def meghana():
+    print("Hello world")
+    
+meghana()
+print("outside the function")
